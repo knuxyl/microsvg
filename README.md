@@ -3,6 +3,7 @@
 > A single-header C99 SVG 2 decoder and rasterizer.
 
 *should be complete excluding scripting support (not planned)*
+*primarily deepseek and glm coded*
 
 ## Origins & Credits
 
