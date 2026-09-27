@@ -1,6 +1,6 @@
 # microsvg.h
 
-> A single-header SVG 2 decoder and rasterizer.
+> A single-header C99 SVG 2 decoder and rasterizer.
 
 ## Origins & Credits
 
