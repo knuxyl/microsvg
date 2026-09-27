@@ -2,6 +2,8 @@
 
 > A single-header C99 SVG 2 decoder and rasterizer.
 
+*should be complete*
+
 ## Origins & Credits
 
 Originally forked from [NanoSVG](https://github.com/memononen/nanosvg)
